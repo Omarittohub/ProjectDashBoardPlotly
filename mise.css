@@ -1,0 +1,72 @@
+.photo {
+    width: 200px;
+    height: auto;
+}
+
+.small-image {
+    width: 250px;
+    height: auto;
+}
+
+#newsboard {
+    width: 350px;
+    height: 700px;
+    margin-left: 400px;
+}
+
+.navbarcolor {
+    background-color: #ffffff;
+}
+
+#gras {
+    font-weight: bold;
+}
+
+.intrest {
+    color: #1a5fb4
+}
+
+.tcol {
+    color: white;
+}
+
+.centered-title {
+    text-align: center;
+    margin: 0 auto;
+    text-shadow: #99c1f1 1px 0 3px;
+    font-family: "Zilla Slab", serif;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.bodybg {
+    background-color: #c3e4f5;
+}
+
+
+.divimp {
+    background-color: white;
+    margin-inline: auto;
+    border-color: black;
+    border-radius: 30px;
+    height: 150px;
+    width: 300px;
+    margin-top: 10%;
+}
+
+.textimport {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.divgrph {
+    background-color: white;
+    border-color: black;
+    border: 1mm ridge rgb(222, 221, 218, .6);
+    border-radius: 30px;
+    height: 500px;
+    width: 500px;
+    margin-left: 10%;
+    margin-top: 10%;
+}
